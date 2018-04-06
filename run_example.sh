@@ -1,1 +1,1 @@
-python geohash2kml.py minneapolis_counts.txt minneapolis
+python geohash2kml.py train_start00.txt beijing
